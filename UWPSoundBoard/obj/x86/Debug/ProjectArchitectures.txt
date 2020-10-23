@@ -1,0 +1,1 @@
+G:\Windows Platform\Lap09\UWPSoundBoard\UWPSoundBoard.csproj;x86
